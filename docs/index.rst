@@ -3,34 +3,46 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Buat Nada Dering dengan Situs Text to Speech di Hp Android
+Ubah Notifikasi WA dengan Suara Google Pria tanpa Aplikasi
 ==================
 
-Lewat tulisan ini, kami akan memberikan panduan lengkap bagaimana cara membuat nada dering yang unik dan kerenenggunakan software text to speech alias situs untuk ubah teks menjadi suara Google. Teknik untuk memasang nada dering wa dari suara Google ini biasa disebut juga sebagai sound of text wa yang banyak diulas di halaman ini: https://www.dmo.or.id/sound-of-text-wa/. 
 
-Ada cukup banyak situs yang dapat membuat suara dari teks dengan engine text to speech dari Google Translate. Diantara nama nama platform yang cukup terkenal dianataranya:
+Untuk kamu yang suka iseng atau sedang jomblo, bisa lho membuat nada notifikasi whatsapp dengan menggunakan suara cowok. Jangan khawatir, caranya sangat mudah dan juga gratis. Kamu juga bisa menggunakan berbagai kata agar suara notifikasi mu terdengar unik. Kira kira bagaimana cara buat sound of text cowok? Berikut penjelasannya untuk kamu.
 
-1. Voiceoftext.com 
-2. Soundoftext.com 
-3. Notevibes.com
-4. Botika.online
-5. FreeTTS.com
-6. Voicemaker.in
-7. Fakeyou.com
-8. Uberduck.ai 
-9. Wideo text to speech
-10. Amazon Poly
-11. Balabolka
+Menggunakan FreeTTS.com
+==================
 
-Tentu masih banyak platform text to speech lainnya yang cukup populer namun tidak bisa kami sebutkan satu persatu pada daftar diatas.
+Cara pertama kita bisa menggunaan FreeTTS.com. Situs ini bisa dibilang menjadi situs rujukan untuk para profesional untuk mereka yang suka membuat sound of text. Alasannya adaalah karena situs ini memiliki banyak sekali basis bahasa mulai dari Indonesia hingga Amerika dengan bahasa Inggris mirip seperti Voiceoftext.com dengan tambahan jenis suara pria dan wanita. Jika di Voice of text (https://blog.ub.ac.id/anchor/fitur-terbaru-voiceoftext-com/) kamu hanya bisa memilih satu suara saja untuk setiap bahasa.
 
-Cara membuat nada dering wa sendiri sebenarnya tidak sesulit yang dibayangkan. Kamu cukup membuat kata kata yang pas untuk dijadikan nada notifikasi, mengubahnya menjadi suara dalam format mp3 menggunakan situs text to speech,  lalu unduh dan simpan file mp3 sound of text tersebut di folder ringtones.
+Dengan keunggulan FreeTTS yang sudah disebutkan sebelumnya, perlu diketahui bahwa situs ini juga menyediakan dua jenis layanan yakni layanan berbayar atau layanan premium dan juga layanan gratis. Untuk layanan premium, kamu tidak memiliki batasan fitur yang ada. Sedangkan untuk layanan gratisnya kamu dibatasi untuk mengubah 6000 karakter per minggunya. Namun itu sudah lebih dari cukup untuk notifikasi yang panjangnya 3 sampai 5 detik saja.
 
-Langkah selanjutnya tinggal memasang nada dering mp3 sound of text tadi sebagai nada pesan notifikasi wa di pengaturan aplikasi Whatsapp. Satu hal baru yang bisa kamu buat dengan teknologi text to speech ini adalah kamu dapat membuat ucapan custom untuk setiap keperluan ataupun event yang berbeda. Sebagai contoh, kamu dapat membuat ucapan suara untuk hari-hari besar seperti:
+Agar tidak bingung, berikut langkah yang bisa kamu lakukan:
 
-- Ucapan selamat Idul Fitri dengan suara Google
-- Ucapan selamat ulang tahun bahasa Korea dengan Voiceoftext
-- Ucapan selamat tahun baru Islam dengan bahasa Arab di situs Soundoftext.com
-- Ucapan selamat hari kemerdekaan Republik Indonesia
+1. Buka gadgetmu, kamu juga bisa menggunakan smartphone atau HP. Kemudian dengan menggunakan browser, kunjungi FreeTTS.com
+2. Selanjutnya kamu akan menemukan sebuah kolom yang bisa kamu gunakan untuk mengetiikkan teks yang hendak kamu ubah ke audio. Untuk idenya, kamu bisa menggunakan beberapa ide 3. berikut seperti menggunakan nama pemilik akun, menggunakan panggilan tertentu  seperti “Bella, ada pesan buat kamu.”
+4. Setelah kamu mengisi kolom tersebut dengan teks tersebut, langkah berikutnya adalah memilih bahasa yang digunakan. Kamu bisa memilih Bahasa Indonesia. 
+5. Selanjutnya, kamu bisa memilih opsi suara A, B dan juga C. Apabila kamu kurang cocok dengan suara yang tersedia, kamu bisa menggantinya dengan menggunakan bahasa lainnya. 6. 6. Contohnya adalah Bahasa Korea yang sedang populer. Manfaatkan Google Translation untuk menterjemahkan teks dari bahasa Indonesia ke Korea.
+7. Langkah berikutnya klik Convert to MP3 dan tunggu prosesnya sampai selesai
+8. Setelah prosesnya selesai, langkah berikutnya klik Download MP3. 
+9. File yang diunduh akan berformat MP3, selesai
 
-Untuk contoh kata-kata ucapan yang keren dan kekinian, kamu dapat melihat contohnya dari situs `Giftcard.co.id <https://giftcard.co.id>`_. Nah itulah tadi ulasan lengkap kami bagaimana cara memulai untuk membuat nada dering sendiri menggunakan situs text to speech yang sedang tren belakangan ini. Selamat mencoba dan semoga bermanfaat buat kamu sobat tekno semua!
+Bagaimana? Mudah bukan langkah untuk mebuat sound of text cowok dengan menggunakan FreeTTS.com. Karena terbatas hanya sampai 6000 karakter saja, termasuk spasi dan juga tanda baca, manfaatkan dengan baik batasannya. Namun bila kamu ingin mencoba lebih, ada opsi lain yakni sebagai berikut.
+
+Menggunakan Voicemaker.in
+==================
+
+Cara berikutnya adalah dengan menggunakan situs `Voicemaker.in <https://civitas.uns.ac.id/angginiaelsa/voice-maker-untuk-buat-suara-natural/>`_. Situs ini tidak kalah baik ketimbang FreeTTS.com. Bahkan situs VoiceMaker ini memiliki fitur yang lebih lengkap dan kompleks karena kita bisa membuat suaranya agar terdengar lebih natural. Berikut langkah pembuatan sound of text cowok.
+
+1. Gunakan HP atau laptopmu, kunjungi situs Voicemaker.in
+2. Selanjutnya, abaikan tools atau fitur yang terlihat di kolom atas karena ditujukan untuk kaum profesional yang sudah lebih paham
+3. Isi kolom dengan teks yang sudah kamu siapkan sebelumnya
+4. Dibawah kolom, berikan contreng pada Neural TTS
+5. Selanjutnya adalah kamu memilih Bahasa. Sayangnya agar dapat menggunakan bahasa Indonesia kamu harus memiliki langganan premium. Kamu bisa memilih Bahasa Inggris sebagai pilihan bahasa
+6. Di sebelah kanan, kamu bisa mengatur volume, kecepatan dan juga tinggi nada dari teks berbicara yang ditampilkan.
+7. Selanjutnya, klik Convert to MP3 dan tunggu beberapa waktu
+8. Akan muncul file yang hendak diunduh kamu bisa memainkannya dan bila kamu merasa file sudah baik, kamu bisa mengunduhnya.
+9. Selesai
+
+Berbeda dengan cara yang pertama, cara yang kedua ini menghasilkan suara yang lebih natural atau terdengar seperti rekaman. Hanya saja memang sayangnya untuk menggunakan semua database suaranya kamu harus melakukan pembayaran agar akunmu premium. Namun dengan versi gratisannya saja kamu bisa membuat nada dering yang menarik kok. Sebagai alternatif yang full diakses gratis, kamu bisa coba Wideo Text to speech yang telah diulas di artikel ini: https://blogs.itb.ac.id/wikia/wideo-text-to-speech/
+
+Nah mana menurutmu dari kedua cara sound of text cowok diatas yang paling mudah? Kamu bisa memilih yang paling cepat dan mudah pula. Setelah kamu mendapatkan file audionya, kamu bisa melakukan setting di Whatsapp. Caranya, kamu tinggal ke pengaturan dan atur nada atau notifikasinya. Kamu juga bisa mengatur nada untuk setiap akun tersendiri.
